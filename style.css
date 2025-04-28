@@ -1,0 +1,63 @@
+* {
+  font-family: Ubuntu;
+  transition: .5s;
+}
+body {
+  background-color: black;
+  color: white;
+}
+div {
+  background-color:#7CBCEC7D;
+  border-radius: 2pc;
+  min-width: 20pc;
+  width: 70%;
+  height: 9pc;
+  padding: 0.5pc;
+}
+h1 {
+  font-size: 2.5pc;
+}
+h2 {
+  font-size: 1.7pc;
+}
+.dBtn {
+  font-size: 1.5pc;
+  padding: .3pc;
+  width: 12.5pc;
+  border-style: none;
+  border-bottom-right-radius: 1pc;
+  border-top-left-radius: 1pc;
+  border-top-right-radius: .1pc;
+  border-bottom-left-radius: .1pc;
+}
+.dBtn:hover {
+  border-bottom-right-radius: .1pc;
+  border-top-left-radius: .1pc;
+  border-top-right-radius: 1pc;
+  border-bottom-left-radius: 1pc;
+}
+nav {
+  background: #7CBCEC7D;
+  color: white;
+  padding: .1pc;
+}
+nav button {
+  font-size: 1pc;
+  padding: .6pc;
+  background-color:#42445A00;
+  border-style: none;
+  color: white;
+}
+
+#fan {
+  background-color: white;
+  border-radius: .5pc;
+  border-style: none;
+  width: 4pc;
+}
+footer {
+  height: 7pc;
+}
+header {
+  height: 10pc;
+}
